@@ -1,6 +1,9 @@
 	
 /* ***************************************
-   AUTHOR: Paul Curzon
+  @author	Paul Curzon
+  @date 	30 June 2020
+  @version 	2
+
 	A program that prints a welcome message
 	Notice how the program called hello is 
 	made of 2 methods. One called main

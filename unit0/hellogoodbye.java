@@ -1,5 +1,8 @@
 /* ***************************************
-   AUTHOR: Paul Curzon
+  @author	Paul Curzon
+  @date 	30 June 2020
+  @version 	2
+  
 	A program that prints a welcome message
 	Notice how the program called hellogoodbye is 
 	made of 3 methods. One called main
@@ -23,7 +26,6 @@ class hellogoodbye
 	/* ***************************************
 	*	Define a method to print a welcome message
 	*/
-	
     public static void helloMessage ()
     {
         System.out.println("Hello"); 
@@ -37,7 +39,6 @@ class hellogoodbye
 	/* ***************************************
 	*	Define a method to print a goodbye message
 	*/
-	
     public static void goodbyeMessage ()
     {
         System.out.println("Goodbye"); 
